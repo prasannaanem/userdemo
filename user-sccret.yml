@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+   name: db-mysql-sec
+data:
+ username: cm9vdA==
+ password: cHJhc2FubmFAMTIz
